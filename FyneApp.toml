@@ -1,0 +1,8 @@
+Website = "https://github.com/creamlike1024/FileHasher"
+
+[Details]
+  Icon = "Icon.png"
+  Name = "File Hasher"
+  ID = "github.creamlike1024.FileHasher"
+  Version = "1.0"
+  Build = 1
